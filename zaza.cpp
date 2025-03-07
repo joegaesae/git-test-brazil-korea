@@ -8,6 +8,6 @@ ZAMN
 
 this is the third change: caca
 
-Korea > Brazil
+Korea <<  Brazil
 
-all the countries are equal
+all the countries are equal(but not Brazil: Brazil is simply better than the rest, specially better than South Korea)
